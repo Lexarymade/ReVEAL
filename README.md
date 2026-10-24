@@ -19,7 +19,7 @@ Official implementation of **ReVEAL: Eliciting Role-Aware Latent Visual Evidence
 
 ![ReVEAL overview](assets/teaser.png)
 
-Reasoning video object segmentation requires identifying and segmenting objects in videos from language queries that call for reasoning. ReVEAL elicits latent visual evidence from multimodal large language models (MLLMs) for target, background, and distractor regions during reasoning, using this role-aware evidence to guide an external video segmenter.
+ReVEAL unlocks MLLMs’ inherent grounding ability, eliciting latent visual evidence for target, background, and distractor regions during reasoning to guide an external video segmenter.
 
 ## TODO
 
