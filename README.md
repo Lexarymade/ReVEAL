@@ -9,7 +9,7 @@ Official implementation of **ReVEAL: Eliciting Role-Aware Latent Visual Evidence
 
 <!-- 发布后，将按钮目标替换为 arXiv 论文链接和 Hugging Face 模型链接。 -->
 <p align="center">
-  <a href="#todo"><img src="https://img.shields.io/badge/Paper-coming%20soon-b31b1b?logo=arxiv&amp;logoColor=white" alt="arXiv Paper: coming soon"></a>&nbsp;
+  <a href="http://arxiv.org/abs/2610.41257"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>&nbsp;
   <a href="#todo"><img src="https://img.shields.io/badge/Model-coming%20soon-FFD21E?logo=huggingface" alt="Model: coming soon"></a>
 </p>
 
